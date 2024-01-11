@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DianeM8739
-- 👀 I’m interested in fintech, blockchain gaming, and cryptocurrency
-- 🌱 I’m currently learning data analysis
+- 🌱 Just doing some data analysis
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - message me
 
